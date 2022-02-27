@@ -21,7 +21,7 @@
 
 
 
-#[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 
 #[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
