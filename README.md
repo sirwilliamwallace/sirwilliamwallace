@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/SIRWILLIAMWALLACE-2bbc8a)
 <br >
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&color=2bbc8a)
