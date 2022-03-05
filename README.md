@@ -1,18 +1,25 @@
-### nUmberX 
+### nUmberX
+
 [![Header](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/python-icon.png "Header")]('https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)
 
 ## 🔧 Technologies & Tools
+
 ![](https://img.shields.io/badge/SIRWILLIAMWALLACE-2bbc8a)
-<br >
+
+#
+
+![](https://img.shields.io/badge/Amazon-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white&color=2bbc8a)
+
+#
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Django-framework-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/C-programming-informaional?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&color=2bbc8a)
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/sirwilliamwallace/sirwilliamwallace">
@@ -25,4 +32,3 @@
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [2.1]: https://github.com/sirwilliamwallace
-
