@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=protonmail" alt="Mail Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/amirhossein-shekooh-942a26247">
-      <img src="https://img.shields.io/badge/Linkedin-gray?style=for-the-badge&logo=linkedin" alt="Linked In Badge"/>
+      <img src="https://img.shields.io/badge/Linkedin-gray?style=for-the-badge&logo=linkedin&logoColor=lightpurple" alt="Linked In Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=sirwilliamwallace&style=flat-square&color=gray" alt="Profile Views"/>
