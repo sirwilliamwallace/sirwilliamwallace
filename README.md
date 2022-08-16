@@ -20,7 +20,6 @@
     </div>
     <img src="https://media4.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e479bt8llahshri1uw0tv8680secfn75wjhd51tx7a5&rid=giphy.gif" width=300>
 </div>
----
 
 ### :men_technologist: About Me :
 - :telescope: I’m a Linux Sysadmin, Cyber security student, Web Developer(Mostly Backend) .
