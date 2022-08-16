@@ -1,34 +1,30 @@
-### nUmberX
+<div id="header" align="center">
+        <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47n19bdwfvb7ugvl2tql4nte69150u3junhhoiatlc&rid=giphy.gif" width="300" />
+  <div id="badges">
+    <a href="https://www.discordapp.com/users/366586864859348994">
+      <img src="https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=discord&logoColor=darkpurple" alt="Discord Badge"/>
+    </a>
+    <a href="your-youtube-URL">
+      <img src="https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=protonmail" alt="Mail Badge"/>
+    </a>
+    <a href="Linkedin">
+      <img src="https://img.shields.io/badge/Linkedin-gray?style=for-the-badge&logo=linkedin" alt="Linked In Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=sirwilliamwallace&style=flat-square&color=gray" alt="Profile Views"/>
+    <div>
+      <h1> Hi There <span> 
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+      </span></h1> 
+      <h2> What  do I do ?! </h2>
+    </div>
+    <img src="https://media4.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e479bt8llahshri1uw0tv8680secfn75wjhd51tx7a5&rid=giphy.gif" width=300>
+</div>
+---
 
-[![Header](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/django-icon.png "Header")]('https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)
+### :men_technologist: About Me :
+- :telescope: I’m a Linux Sysadmin, Cyber security student, Web Developer(Mostly Backend) .
 
-## 🔧 Technologies & Tools
+- :seedling: Exploring The Tech world.
 
-![](https://img.shields.io/badge/SIRWILLIAMWALLACE-2bbc8a)
-
-#
-
-![](https://img.shields.io/badge/Amazon-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-
-#
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Django-framework-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/C-programming-informaional?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/sirwilliamwallace/sirwilliamwallace">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirwilliamwallace&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/sirwilliamwallace/sirwilliamwallace">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sirwilliamwallace&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="nUmberX's GitHub Stats" />
-</a>
-
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[2.1]: https://github.com/sirwilliamwallace
+- :zap: In my free time, I learn new technologies (Programming Languages, Frameworks, etc.)
