@@ -48,4 +48,4 @@
 </div>
 
 ### 🔥 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sirwilliamwallace&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sirwilliamwallace&theme=vue&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
