@@ -4,10 +4,10 @@
     <a href="https://www.discordapp.com/users/366586864859348994">
       <img src="https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=discord&logoColor=darkpurple" alt="Discord Badge"/>
     </a>
-    <a href="your-youtube-URL">
+    <a href="mailto:shekooha696@proton.me">
       <img src="https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=protonmail" alt="Mail Badge"/>
     </a>
-    <a href="Linkedin">
+    <a href="https://www.linkedin.com/in/amirhossein-shekooh-942a26247">
       <img src="https://img.shields.io/badge/Linkedin-gray?style=for-the-badge&logo=linkedin" alt="Linked In Badge"/>
     </a>
   </div>
