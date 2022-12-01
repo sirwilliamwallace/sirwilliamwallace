@@ -18,7 +18,7 @@
       </span></h1> 
       <h2> What  do I do ?! </h2>
     </div>
-    <img src="https://media4.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e479bt8llahshri1uw0tv8680secfn75wjhd51tx7a5&rid=giphy.gif" width=300>
+<!--     <img src="https://media4.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e479bt8llahshri1uw0tv8680secfn75wjhd51tx7a5&rid=giphy.gif" width=300> -->
 </div>
 
 ### 👨‍💻 About Me :
